@@ -36,9 +36,9 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 ---
 
 ### 🔮 Step 4: Exploring Advanced Tools & Emerging Tech  
-- Experimenting with frameworks like **Playwright** for faster scraping automation.  
+- Experimenting with frameworks like **Playwright**, **NoDriver** and undectable browser like camoufox for faster scraping automation.  
 - Integrating **Large Language Models (LLMs)** and APIs to enhance data workflows and insights.  
-- Preparing to implement real-time data pipelines for cryptocurrency and retail analytics.
+- Preparing to implement real-time data pipelines for cryptocurrency, retail and real state analytics.
 
 ---
 
@@ -73,7 +73,7 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
   <a href="https://www.linkedin.com/in/andoni-lagos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/AndoniLagos" target="_blank">
+  <a href="https://github.com/AndoniData" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
