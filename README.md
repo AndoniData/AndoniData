@@ -15,8 +15,8 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 ### 🔍 Step 1: Strong Data Foundations  
 - Mastering data extraction and cleaning with **Python**, **SQL**, and **data wrangling libraries** like `Pandas` & `NumPy`.  
 - Handling diverse file formats: `.csv`, `.json`, `.parquet`, and web data (HTML, CSS).  
-- Building automation with **Selenium** and **Requests** for reliable web scraping projects.
-
+- Building automation and stablish bases with **Selenium**, **Requests**, **CCFI**, **Asyncio** and more! for reliable web scraping projects.
+- Data Modeling with **SQL** based on DDL views and CTEs management
 ---
 
 ### ⚙️ Step 2: Building Automated Pipelines  
