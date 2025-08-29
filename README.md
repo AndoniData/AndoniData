@@ -50,7 +50,8 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 |---------|-------------|------|
 | [**Retail Data Scraper - Falabella**](#) | Dynamic data extraction combining `Selenium` & `Requests` to scrape product and pricing data | `Python` `Selenium` `Requests` |
 | [**ETL Pipeline for Analytics in Real State**](#) | (In Progress) Automated data ingestion and transformation pipeline feeding BI dashboards | `Airflow` `Pandas` `SQL` |
-| [**Bitcoin Real-Time ETL**](#) | (In Progress) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `BigQuery` |
+| [**Bitcoin Real-Time ETL**](#) | (In Progress) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `AWS Kinesis` `S3` |
+
 
 ---
 
@@ -58,7 +59,7 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 
 🔧 **Tools:** Python · SQL · Git · Linux (Ubuntu/Debian) · PostgreSQL · Logging & Timers · Jira Service Management  
 ☁ **Cloud:** AWS (S3 · Glue · Lambda · RDS · EMR) *(transitioning)*  
-📊 **BI Tools:** Power BI · Apache Superset · Looker Studio  
+📊 **BI Tools:** Power BI · Apache Superset · Metabase · Streamlit   
 📚 **Frameworks:** Pandas · NumPy · DuckDB · Selenium · Apache Spark · PyArrow  
 🛠 **Technologies:** DDL · Data Modeling  
 🏢 **Systems:** SAP S/4HANA · SAP Datasphere *(legacy)*  
