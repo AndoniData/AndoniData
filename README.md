@@ -15,8 +15,8 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 ### 🔍 Step 1: Strong Data Foundations  
 - Mastering data extraction and cleaning with **Python**, **SQL**, and **data wrangling libraries** like `Pandas` & `NumPy`.  
 - Handling diverse file formats: `.csv`, `.json`, `.parquet`, and web data (HTML, CSS).  
-- Building automation and stablish bases with **Selenium**, **Requests**, **CCFI**, **Asyncio** and more! for reliable web scraping projects.
-- Data Modeling with **SQL** based on DDL views and CTEs management
+- Strengthening my stack with Python (Pandas, NumPy, PyArrow), focusing on building clean, reliable, and automated data pipelines.
+- Data Modeling with **SQL** views and CTEs management
 ---
 
 ### ⚙️ Step 2: Building Automated Pipelines  
@@ -27,18 +27,20 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 ---
 
 ### ☁️ Step 3: Transitioning to Cloud-Native Solutions  
-- Currently expanding expertise in **Google Cloud Platform** services:  
-  - **BigQuery** for scalable analytics  
-  - **Google Cloud Storage (GCS)** for data lakes  
-  - **Dataproc** for managed Spark clusters  
-- Containerizing workflows using **Docker** and orchestrating jobs with **Apache Airflow** (DAGs).
+- Currently expanding expertise in **AWS** services:  
+  - **S3** for data lakes and storage  
+  - **Glue** for ETL, data cataloging, and transformations  
+  - **Lambda** for serverless automation and event-driven workflows  
+  - **RDS** for relational database management  
+- Containerizing workflows with **Docker** and orchestrating jobs with **Apache Airflow** (DAGs).  
 
 ---
 
 ### 🔮 Step 4: Exploring Advanced Tools & Emerging Tech  
-- Experimenting with frameworks like **Playwright**, **NoDriver** and undectable browser like camoufox for faster scraping automation.  
-- Integrating **Large Language Models (LLMs)** and APIs to enhance data workflows and insights.  
-- Preparing to implement real-time data pipelines for cryptocurrency, retail and real state analytics.
+- Leveraging compute engines like **Apache Spark**, **AWS EMR**, and **AWS Lambda** to process and scale data pipelines efficiently.  
+- Integrating **Large Language Models (LLMs)** and APIs to enhance data workflows, insights generation, and support prompt engineering use cases.  
+- Preparing to implement real-time data pipelines for **financial market, retail, and real estate analytics**, combining cloud-native compute with BI dashboards.  
+
 
 ---
 
@@ -52,16 +54,16 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 
 ---
 
-## 💻 Tech Stack Summary
+## 💻 Tech Stack Summary  
 
-🔧 **Tools:** Python · SQL · Git · Linux (Ubuntu/Debian) · PostgreSQL · Logging & Timers · Jira Service Management
-☁ **Cloud:** GCP (BigQuery · GCS · Dataproc) *(transitioning)*  
+🔧 **Tools:** Python · SQL · Git · Linux (Ubuntu/Debian) · PostgreSQL · Logging & Timers · Jira Service Management  
+☁ **Cloud:** AWS (S3 · Glue · Lambda · RDS · EMR) *(transitioning)*  
 📊 **BI Tools:** Power BI · Apache Superset · Looker Studio  
 📚 **Frameworks:** Pandas · NumPy · DuckDB · Selenium · Apache Spark · PyArrow  
 🛠 **Technologies:** DDL · Data Modeling  
 🏢 **Systems:** SAP S/4HANA · SAP Datasphere *(legacy)*  
-🧠 **Skills:** OOP · Conceptual & business logical Data Modeling · Legacy Systems  
-🌱 **Learning:** Playwright · Docker · Airflow · LLM Tools & API Integration  · GCP Environment
+🧠 **Skills:** OOP · Conceptual & Business Logical Data Modeling · Legacy Systems  
+🌱 **Learning:** Docker · Airflow · LLM Tools & API Integration · AWS Environment  
 📦 **File Types:** .parquet · .csv · .json · HTML · CSS  
 💻 **Local Dev:** `uv` · `venv`  
 
