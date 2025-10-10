@@ -49,9 +49,9 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Retail Data Scraper - Falabella**](#) | Dynamic data extraction combining `Selenium` & `Requests` to scrape product and pricing data | `Python` `Selenium` `Requests` |
-| [**ETL Pipeline for Analytics in Real State**](#) | (In Progress) Automated data ingestion and transformation pipeline feeding BI dashboards | `Airflow` `Pandas` `SQL` |
-| [**Bitcoin Real-Time ETL**](#) | (In Progress) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `AWS Kinesis` `S3` |
-
+| [**ETL Pipeline for Analytics in Real State**](#) | Automated data ingestion and transformation pipeline feeding BI dashboards | `Airflow` `Pandas` `SQL` |
+| [**Bitcoin Real-Time ETL**](#) | (In Pause) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `AWS Kinesis` `S3` |
+| [**Mercado Publico - Chile**](#) | (In Progress) Streaming pipeline for public offers by State of Chile | `Kafka` `GCP` `Telegram BOT` `Python`|
 
 ---
 
