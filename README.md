@@ -15,32 +15,32 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 ### 🔍 Step 1: Strong Data Foundations  
 - Mastering data extraction and cleaning with **Python**, **SQL**, and **data wrangling libraries** like `Pandas` & `NumPy`.  
 - Handling diverse file formats: `.csv`, `.json`, `.parquet`, and web data (HTML, CSS).  
-- Strengthening my stack with Python (Pandas, NumPy, PyArrow), focusing on building clean, reliable, and automated data pipelines.
-- Data Modeling with **SQL** views and CTEs management
+- Strengthening my stack with Python (Pandas, NumPy, PyArrow), focusing on building clean, reliable, and automated data pipelines.  
+- Data Modeling with **SQL** views and CTEs management.  
+
 ---
 
 ### ⚙️ Step 2: Building Automated Pipelines  
 - Developing ETL pipelines to ingest, transform, and load data efficiently.  
 - Implementing process control with **logging**, **timers**, and **error handling** to ensure pipeline reliability.  
-- Working with databases like **PostgreSQL** for structured storage and retrieval.
+- Working with databases like **PostgreSQL** for structured storage and retrieval.  
 
 ---
 
-### ☁️ Step 3: Transitioning to Cloud-Native Solutions  
-- Currently expanding expertise in **AWS** services:  
-  - **S3** for data lakes and storage  
-  - **Glue** for ETL, data cataloging, and transformations  
-  - **Lambda** for serverless automation and event-driven workflows  
-  - **RDS** for relational database management  
-- Containerizing workflows with **Docker** and orchestrating jobs with **Apache Airflow** (DAGs).  
+### ☁️ Step 3: Transitioning to Cloud-Native Solutions (GCP Edition)  
+- Expanding expertise in **Google Cloud Platform (GCP)** services:  
+  - **Cloud Storage (GCS)** for data lakes and file management  
+  - **Cloud Dataflow** and **Dataprep** for ETL and large-scale transformations  
+  - **Cloud Functions** for serverless event-driven workflows  
+  - **Cloud SQL** / **BigQuery** for relational and analytical workloads  
+- Containerizing workflows with **Docker** and orchestrating DAGs with **Cloud Composer (Airflow)**.  
 
 ---
 
 ### 🔮 Step 4: Exploring Advanced Tools & Emerging Tech  
-- Leveraging compute engines like **Apache Spark**, **AWS EMR**, and **AWS Lambda** to process and scale data pipelines efficiently.  
-- Integrating **Large Language Models (LLMs)** and APIs to enhance data workflows, insights generation, and support prompt engineering use cases.  
-- Preparing to implement real-time data pipelines for **financial market, retail, and real estate analytics**, combining cloud-native compute with BI dashboards.  
-
+- Leveraging distributed compute engines like **Apache Spark** on **Dataproc** for batch and streaming workloads.  
+- Integrating **Large Language Models (LLMs)** and APIs to enhance data workflows, insights generation, and prompt engineering use cases.  
+- Designing real-time pipelines for **financial market, retail, and real estate analytics**, combining cloud-native compute with BI dashboards.  
 
 ---
 
@@ -49,22 +49,22 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Retail Data Scraper - Falabella**](#) | Dynamic data extraction combining `Selenium` & `Requests` to scrape product and pricing data | `Python` `Selenium` `Requests` |
-| [**ETL Pipeline for Analytics in Real State**](#) | Automated data ingestion and transformation pipeline feeding BI dashboards | `Airflow` `Pandas` `SQL` |
-| [**Bitcoin Real-Time ETL**](#) | (In Pause) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `AWS Kinesis` `S3` |
-| [**Mercado Publico - Chile**](#) | (In Progress) Streaming pipeline for public offers by State of Chile | `Kafka` `GCP` `Telegram BOT` `Python`|
+| [**ETL Pipeline for Analytics in Real State**](#) | Automated data ingestion and transformation pipeline feeding BI dashboards | `Cloud Composer` `Pandas` `SQL` |
+| [**Bitcoin Real-Time ETL**](#) | (In Pause) Streaming pipeline for real-time cryptocurrency data analysis | `Kafka` `Spark Streaming` `GCP Pub/Sub` `Cloud Storage` |
+| [**Mercado Publico - Chile**](#) | (In Progress) Streaming pipeline for public offers by State of Chile | `Kafka` `GCP` `Telegram BOT` `Python` |
 
 ---
 
 ## 💻 Tech Stack Summary  
 
 🔧 **Tools:** Python · SQL · Git · Linux (Ubuntu/Debian) · PostgreSQL · Logging & Timers · Jira Service Management  
-☁ **Cloud:** AWS (S3 · Glue · Lambda · RDS · EMR) *(transitioning)*  
-📊 **BI Tools:** Power BI · Apache Superset · Metabase · Streamlit   
+☁ **Cloud:** GCP (Cloud Storage · BigQuery · Cloud Functions · Dataproc · Cloud Composer)  
+📊 **BI Tools:** Power BI · Apache Superset · Metabase · Streamlit  
 📚 **Frameworks:** Pandas · NumPy · DuckDB · Selenium · Apache Spark · PyArrow  
 🛠 **Technologies:** DDL · Data Modeling  
 🏢 **Systems:** SAP S/4HANA · SAP Datasphere *(legacy)*  
 🧠 **Skills:** OOP · Conceptual & Business Logical Data Modeling · Legacy Systems  
-🌱 **Learning:** Docker · Airflow · LLM Tools & API Integration · AWS Environment  
+🌱 **Learning:** Docker · Airflow · LLM Tools & API Integration · GCP Data Environment  
 📦 **File Types:** .parquet · .csv · .json · HTML · CSS  
 💻 **Local Dev:** `uv` · `venv`  
 
@@ -86,9 +86,10 @@ Here’s a summary of my journey — a combination of skills, projects, and lear
 
 ---
 
-⭐ _Always open to collaborating on data engineering, pipeline automation, and scalable data solutions!_
+⭐ _Always open to collaborating on data engineering, pipeline automation, and scalable cloud-native data solutions!_
 
 <!---
 AndoniData/AndoniData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
